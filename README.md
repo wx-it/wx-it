@@ -1,3 +1,3 @@
 # lix wxit
 
-https://github.com/wx-it?tab=repositories
+![Github stats](https://github-readme-stats.vercel.app/api?username=wx-it&theme=highcontrast&show_icons=true&count_private=true)
