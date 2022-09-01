@@ -8,13 +8,16 @@
   
 <h2>My Tech Stack</h2>
 
-  <tr align='center'>
+<div align='center'>
+
+  <tr>
     <td>HTML5</td>
     <td>CSS / SCSS</td>
     <td>JavaScript</td>
     <td>React Js</td>
    <td>TailwindCSS</td>
-  </tr>  
+  </tr></div>
+
 </table>
 
 <div align= 'center'>
