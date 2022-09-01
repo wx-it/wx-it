@@ -8,12 +8,12 @@
   
 <h2>Full Stack Developer</h2>
 
-  <tr>
+  <tr align='center'>
     <td>HTML5</td>
     <td>CSS / SCSS</td>
     <td>JavaScript</td>
     <td>React Js</td>
-        <td>TailwindCSS</td>
+   <td>TailwindCSS</td>
   </tr>  
 </table>
 
