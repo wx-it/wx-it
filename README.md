@@ -1,5 +1,6 @@
 # lix wxit
 
+<div align='center'>
 <table>
 <h1>Hi there!</h1>
 <h4>I'm a Front-End Web Developer with so much love for tech and programming in general</h4>
@@ -7,8 +8,6 @@
   <br>
   
 <h2>My Tech Stack</h2>
-
-<div align='center'>
 
   <tr>
     <td>HTML5</td>
