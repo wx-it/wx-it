@@ -18,8 +18,7 @@
 </table>
 
 <div align= 'center'>
-![Github stats](https://github-readme-stats.vercel.app/api?username=wx-it&theme=highcontrast&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wx-it&layout=compact)
+<a href="https://github.com/wx-it?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=wx-it&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/wx-it?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wx-it&layout=compact&langs_count=7&theme=nord"/></a>
 
 </div>
