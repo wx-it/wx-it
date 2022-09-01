@@ -20,6 +20,7 @@
    <td>TailwindCSS</td>
   </tr></div>
 </table>
+<br>
 
 <div align= 'center'>
 <a href="https://github.com/wx-it?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=wx-it&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/></a>
