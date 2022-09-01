@@ -3,8 +3,8 @@
 <div align='center'>
 <table>
 <h1>Hi there!</h1>
-<h4>I'm a Front-End Web Developer with so much love for tech and programming in general</h4>
-<h4>I love learnig more programming languages, problem solving and web development.</h4>
+<h4>I'm a Front-End Web Developer with so much love for tech and programming in general.</h4>
+<h4>I love learning more programming languages, problem solving and web development.</h4>
   <br>
 
 <h4>Check out my Hashnode blog <a target='_blank' href="https://my-tech-journey.hashnode.dev">here</a>.</h4>
