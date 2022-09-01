@@ -13,7 +13,8 @@
 <h2>My Tech Stack</h2>
   <tr>
     <td>HTML5</td>
-    <td>CSS / SCSS</td>
+    <td>CSS</td>
+    <td>Sass/scss</td>
     <td>JavaScript</td>
     <td>React Js</td>
    <td>TailwindCSS</td>
