@@ -6,7 +6,7 @@
 <h4>I love learnig more programming languages, problem solving and web development.</h4>
   <br>
   
-<h2>Full Stack Developer</h2>
+<h2>My Tech Stack</h2>
 
   <tr align='center'>
     <td>HTML5</td>
