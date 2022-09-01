@@ -7,7 +7,7 @@
 <h4>I love learnig more programming languages, problem solving and web development.</h4>
   <br>
 
-<h4>Check out my hashnode Blog<a target='_blank' href="https://my-tech-journey.hashnode.dev">here</a>.</h4>
+<h4>Check out my Hashnode blog <a target='_blank' href="https://my-tech-journey.hashnode.dev">here</a>.</h4>
  <br>
 
 <h2>My Tech Stack</h2>
