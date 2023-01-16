@@ -23,7 +23,7 @@
 <br>
 
 <div align= 'center'>
-<a href="https://github.com/wx-it?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api?username=wx-it&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wx-it)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/wx-it?tab=repositories"><img height="130em" style="border-radius:80px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wx-it&layout=compact&langs_count=7&theme=nord"/></a>
 
 </div>
