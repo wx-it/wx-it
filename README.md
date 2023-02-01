@@ -1,4 +1,4 @@
-rontend Web Developer
+Frontend Web Developer
 ----------------------
 
 I'm a Front-End Web Developer with so much love for tech and programming in general. I love learning more programming languages, problem-solving and web development.
