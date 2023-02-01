@@ -3,7 +3,6 @@ Frontend Web Developer
 
 I'm a Front-End Web Developer with so much love for tech and programming in general. I love learning more programming languages, problem-solving and web development.
 
-*   🌍  I'm based in Algeria
 *   🖥️  See my portfolio at [here](http://https://portfolio-wxit.vercel.app/)
 *   🧠  I'm learning Reactjs
 *   🤝  I'm open to collaborating on interesting projects!### Skills 
