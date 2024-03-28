@@ -3,7 +3,7 @@ Frontend Web Developer
 
 I'm a Front-End Web Developer with so much love for tech and programming in general. I love learning more programming languages, problem-solving and web development.
 
-* 🖥️  See my portfolio at [here](https://zineb-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [here](https://portfolio-zineb.vercel.app/)
 * 🧠  I'm learning Reactjs
 * 🤝  I'm open to collaborating on interesting projects!
 
